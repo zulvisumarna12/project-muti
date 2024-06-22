@@ -1,0 +1,10 @@
+1. PERANCANGAN
+2. LOGIN/LOGOUT
+3. CRUD
+4. TRIGGER
+5. Modul Master Data
+6. Modul Transaksi
+7. Modul Laporan (Export XLS/PDF)
+8. PPN x11% di bagian laporan 
+9. Admin 2 pengguna
+10. Tampilan
